@@ -1,0 +1,262 @@
+<mxfile host="app.diagrams.net" modified="2024-05-05T18:11:50.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="KGAn3dKmkhzn6XNtbPCC" type="device">
+  <diagram id="W3DadJGdqk9tG7gOJwY_" name="Page-1">
+    <mxGraphModel dx="1674" dy="2533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-1" target="BCxmZfyBRjdFLg9zvDlI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-1" target="BCxmZfyBRjdFLg9zvDlI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-1" value="Spoofing Identity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-2" target="BCxmZfyBRjdFLg9zvDlI-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-2" target="BCxmZfyBRjdFLg9zvDlI-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-2" value="Tampering with Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-3" target="BCxmZfyBRjdFLg9zvDlI-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-3" target="BCxmZfyBRjdFLg9zvDlI-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-3" value="Denying Actions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-4" target="BCxmZfyBRjdFLg9zvDlI-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-4" target="BCxmZfyBRjdFLg9zvDlI-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-4" value="Unauthorized Access&lt;div&gt;to Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-5" target="BCxmZfyBRjdFLg9zvDlI-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-5" target="BCxmZfyBRjdFLg9zvDlI-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-5" value="Disruption of Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-6" target="BCxmZfyBRjdFLg9zvDlI-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-6" target="BCxmZfyBRjdFLg9zvDlI-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-6" value="Gaining Higher&lt;div&gt;Privilege&#39;s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-7" value="Spoofing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="11" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-8" value="Tampering" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-9" value="Repudiation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-10" value="Information Disclosure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-11" value="Denial of Service (DoS)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="-9" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-12" value="Elevation of Privilege" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="341" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-17" target="BCxmZfyBRjdFLg9zvDlI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-17" target="BCxmZfyBRjdFLg9zvDlI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-17" value="Session Hijacking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-18" target="BCxmZfyBRjdFLg9zvDlI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-18" target="BCxmZfyBRjdFLg9zvDlI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-18" value="Credentials Theft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-19" value="Phishing Attack" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-20" value="Keylogger Malware" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-21" value="Stealing Session Tokens Via XSS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-22" value="Network Eavesdropping" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-37" target="BCxmZfyBRjdFLg9zvDlI-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-37" target="BCxmZfyBRjdFLg9zvDlI-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-37" value="Database Manipulation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-38" target="BCxmZfyBRjdFLg9zvDlI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-38" target="BCxmZfyBRjdFLg9zvDlI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-38" value="Intercept and Alter Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-39" value="Man-in-the-middle attack during data transmission" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-40" value="Unauthorized API access" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-41" value="SQL Injection" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-42" value="Access with compromised admin credentials" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-43" target="BCxmZfyBRjdFLg9zvDlI-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-43" target="BCxmZfyBRjdFLg9zvDlI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-43" value="Altering or Deleting Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-44" target="BCxmZfyBRjdFLg9zvDlI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-44" target="BCxmZfyBRjdFLg9zvDlI-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-44" value="Transactions without Trace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-45" value="Disabling logging mechanisms" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-46" value="Performing actions that do not require authentication" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-47" value="Access logs modified by malware" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-48" value="Insider removes log entries" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="860" y="261" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-49" target="BCxmZfyBRjdFLg9zvDlI-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-49" target="BCxmZfyBRjdFLg9zvDlI-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-49" value="Indirect Exposure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-50" target="BCxmZfyBRjdFLg9zvDlI-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-50" target="BCxmZfyBRjdFLg9zvDlI-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-50" value="Direct Data Breach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-51" value="Hacking into database" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-52" value="Exploiting vulnerabilities in software" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-53" value="Data leakage through third-party services" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-54" value="Phishing employees for access credentials" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="609" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-55" target="BCxmZfyBRjdFLg9zvDlI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-55" target="BCxmZfyBRjdFLg9zvDlI-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-55" value="Exploiting Software Vulnerabilities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-56" target="BCxmZfyBRjdFLg9zvDlI-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-56" target="BCxmZfyBRjdFLg9zvDlI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-56" value="Flooding the Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-57" value="Distributed denial-of-service (DDoS) attack" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-58" value="Sending malformed requests that crash services" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-59" value="Buffer overflow attacks" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-60" value="Resource exhaustion through infinite loops" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-61" target="BCxmZfyBRjdFLg9zvDlI-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-61" target="BCxmZfyBRjdFLg9zvDlI-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-61" value="Social Engineering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-62" target="BCxmZfyBRjdFLg9zvDlI-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCxmZfyBRjdFLg9zvDlI-62" target="BCxmZfyBRjdFLg9zvDlI-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-62" value="Exploitation of Vulnerabilities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-63" value="Exploiting unpatched software flaws" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-64" value="Escalation through misconfigured permissions" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-65" value="Impersonating administrators to get credentials" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCxmZfyBRjdFLg9zvDlI-66" value="Phishing IT staff for administrative access" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
